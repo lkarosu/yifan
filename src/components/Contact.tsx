@@ -1,6 +1,6 @@
 const contacts = [
   { label: 'Email', value: 'aliez.yang@foxmail.com', href: 'mailto:aliez.yang@foxmail.com' },
-  { label: 'GitHub', value: 'github.com/lkarosu/yifan', href: 'https://github.com/lkarosu/yifan' },
+  { label: 'GitHub', value: 'github.com/lkarosu/yifan', href: 'https://github.com/lkarosu' },
   { label: 'LinkedIn', value: 'linkedin.com/in/linyi', href: 'https://www.linkedin.com/' },
 ]
 
